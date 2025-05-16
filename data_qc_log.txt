@@ -2,3 +2,4 @@
 [2025-05-15 21:21:45.545021] No CSV files found in 'incoming_data'.
 [2025-05-15 21:22:46.811161] No CSV files found in 'incoming_data'.
 [2025-05-15 21:27:19.096340] Issues in 'test_file.csv': Missing values detected
+[2025-05-15 21:45:52.871918] Issues in 'test_file.csv': Missing values detected
